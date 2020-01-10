@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578663302589.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2835173617",
+    "id" : "FB9F1205",
+    "lastKnownWriteTime" : 1578662603,
+    "last_content_update" : 1578662603,
+    "path" : "~/codeclan_work/analytics_group_project/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
